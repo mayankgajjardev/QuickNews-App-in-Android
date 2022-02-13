@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QuickNews</string>
+    <string name="api_key">9061341d10294b01b869a610f2e8728a</string>
+    <string name="action_settings">Profile</string>
+
+
+    <!--    User Profile Strings-->
+    <string name="user_title">Profile Information</string>
+    <string name="user_username">Username :</string>
+    <string name="user_password">Password :</string>
+</resources>
